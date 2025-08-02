@@ -1,0 +1,12 @@
+package rudraksh;
+import java.util.Scanner;
+
+public class IncrementDecrement {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int number = sc.nextInt();
+        System.out.println("Incrementing number: " + (number++));
+        System.out.println("Decrementing number: " + (number--));
+        sc.close();
+    }
+}

@@ -1,0 +1,24 @@
+create a java project
+module 
+uncheck boxes
+show view
+windows
+project explorer
+close package explorer
+right click source folder
+new
+java class file
+package name default 
+package name small letter
+class name CAPS letter
+checkbox
+public static void main
+finish
+System.out.println("Welcome to java programming"):
+ctrl S to save
+run as java application
+
+create 2 integers 
+add 2 integers
+concatenate strings
+
