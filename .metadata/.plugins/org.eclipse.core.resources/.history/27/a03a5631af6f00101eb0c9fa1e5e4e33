@@ -1,9 +1,0 @@
-package Cond;
-
-import java.util.Scanner;
-
-public class Posnumber {
-	Scanner sc= new Scanner(System.in);
-	
-	
-}
