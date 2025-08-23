@@ -1,0 +1,7 @@
+package rudraksh;
+import Java.util.scanner
+public class IncrementDecrement {
+	Scanner sc= new Scanner(System.in);
+	int number=scanner.nextInt();
+	
+}

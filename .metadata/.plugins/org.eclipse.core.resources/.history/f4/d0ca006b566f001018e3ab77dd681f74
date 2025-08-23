@@ -1,0 +1,13 @@
+package rudraksh;
+import java.util.Scanner;
+
+public class TernaryGreater {
+	Scanner sc= new Scanner(System.in);
+	int num1 = sc.nextInt();
+	int num2 = sc.nextInt();
+	
+	int greaternum= (num1>num2)? num1:num2;
+	System.out.println("" + greaternum);
+	sc.close();
+	
+}

@@ -1,0 +1,37 @@
+package rudraksh;
+
+import java.util.Scanner;
+
+public class CompoundAssignment {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+       
+        int number = scanner.nextInt();
+        
+        System.out.println("\nInitial value: " + number);
+        
+
+       
+        int arithmeticVar = number;
+        arithmeticVar += 5; 
+        System.out.println("After += 1:  " + arithmeticVar);
+
+        arithmeticVar -= 2; 
+        System.out.println("After -= 2:  " + arithmeticVar);
+
+        arithmeticVar *= 3;
+        System.out.println("After *= 3:  " + arithmeticVar);
+
+        arithmeticVar /= 4; 
+        System.out.println("After /= 4:  " + arithmeticVar);
+
+        arithmeticVar %= 3; 
+        System.out.println("After %= 5:  " + arithmeticVar);
+
+    
+
+        scanner.close();
+    }
+}

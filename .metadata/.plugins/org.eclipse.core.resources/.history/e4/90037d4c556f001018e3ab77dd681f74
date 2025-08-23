@@ -1,0 +1,10 @@
+package rudraksh;
+import java.util.Scanner;
+
+public class TernaryGreater {
+	Scanner sc= new Scanner(System.in);
+	Int Num1=new sc nextInt();
+	Int Num2=new sc nextInt();
+	sc.close();
+	
+}
